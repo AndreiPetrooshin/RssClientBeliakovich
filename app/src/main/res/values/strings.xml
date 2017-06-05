@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RssClient</string>
+    <string name="upload_button">Load News</string>
+</resources>
